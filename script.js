@@ -1418,7 +1418,7 @@ window.ecwid_loader_shown = true;
 }
 }
 function xAddToBag() {
-xAddWidget("AddToBag", arguments);
+//xAddWidget("AddToBag", arguments);
 }
 function xProductThumbnail() {
 xAddWidget("ProductThumbnail", arguments);
